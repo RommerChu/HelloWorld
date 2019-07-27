@@ -1,0 +1,35 @@
+Javascript technology Ecmascript 6 : using "let" instead "var"
+Javascript technology Ecmascript 5 : using "var" and ";"
+
+1. For printing purpose use: console()
+
+"+" concatination= adjoining of two or more than strings
+" " spacing= to add spacing in between strings
+	e.g let result=Name + "" +Surname
+
+********Equation annotator**********************
+"==" double equal operator = to compare value
+"<" greater than
+">" less than
+"<=" greater or equal to
+">=" less that or greater than to
+"!=" not equal to
+"||" = or
+
+------------------------------------------------
+yes - true - 1
+no - false - 0
+
+
+-----------------------------------------------=
+
+Conditions: "age!=50"
+
+	
+
+Strings=text
+Integers=numbers
+
+----------------------------------------------------
+Let = var
+const = constant  (let the variable in CAPITAL)
